@@ -1,2 +1,2 @@
 # ai-case-study
-M0dule 1 challenge
+Module 1 challenge
