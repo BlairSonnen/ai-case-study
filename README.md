@@ -128,5 +128,5 @@ By adding an AI-powered retention and development analytics product, HireVue cou
 [18]: https://www.selecthub.com/recruiting-software/icims-vs-greenhouse-recruiting/?utm_source=chatgpt.com
 [19]: https://www.selecthub.com/recruiting-software/icims-vs-smartrecruiters/?utm_source=chatgpt.com
 
-![alt text][logo]
+
 [logo]: https://drive.google.com/open?id=1LNlmRbOVUNB5r2zirn4SWU7nPnTJVFxi
